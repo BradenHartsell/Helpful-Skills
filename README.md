@@ -9,6 +9,7 @@ Each skill lives in its own directory under [`skills/`](skills/). Its instructio
 | Skill | ID | What it covers | Compiled |
 |---|---|---|---|
 | [Kotlin Multiplatform Material 3 UI/UX Design and Engineering](skills/kmp-material3-ui-ux/) | `kmp-material3-ui-ux` | Product UI design, Material 3 systems, adaptive Compose layouts, accessibility, input, state, motion, KMP target parity, and visual QA | 2026-07-28 |
+| [Frontend Experience Design and Engineering](skills/frontend-skill/) | `frontend-skill` | Product and marketing UI design, responsive systems, accessibility, truthful state, purposeful motion, implementation, and browser validation | 2026-07-28 |
 | [Three.js 3D Experience Engineering](skills/threejs/) | `threejs` | Browser 3D rendering, scene design, interaction, assets, shaders, performance, and version-aware Three.js guidance | 2026-07-28 |
 
 ## Using a skill

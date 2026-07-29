@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Experience Design"
+  short_description: "Design, build, animate, and audit coherent accessible interfaces"
+  default_prompt: "Use $frontend-skill to design or improve this frontend as a coherent, responsive, truthful, accessible system with stable interactions and verified motion."
