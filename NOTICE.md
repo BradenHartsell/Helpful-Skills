@@ -8,6 +8,10 @@ The repository's MIT License applies to the original skill instructions, metadat
 
 The `kmp-material3-ui-ux` package contains synthesized original guidance and links to official sources. It does not bundle vendor logos, screenshots, fonts, binaries, or copied third-party libraries.
 
+The Kotlin Current Engineering skill family contains original synthesized
+guidance, advisory Python source, and links to official Kotlin, JetBrains,
+Google, Android, Gradle, Ktor, and related platform documentation. It does not
+bundle those platforms, SDKs, libraries, logos, screenshots, fonts, or binaries.
 The `frontend-skill` package contains original synthesized guidance and links to
 official standards, library documentation, browser documentation, and public
 review guidance. It does not bundle third-party libraries, logos, screenshots,

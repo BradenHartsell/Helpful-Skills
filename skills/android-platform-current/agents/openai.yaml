@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Platform Current"
+  short_description: "Validate target-gated Android behavior and releases"
+  default_prompt: "Use $android-platform-current to derive the Android contract from targetSdk and the manifest, then validate background, UI-system, service, notification, Billing, and release unhappy paths."

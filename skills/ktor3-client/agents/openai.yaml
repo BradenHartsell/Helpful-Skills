@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ktor 3 Client"
+  short_description: "Build capability-correct Ktor clients across targets"
+  default_prompt: "Use $ktor3-client to derive the target engine matrix, audit client ownership and plugins, and prove timeout, cancellation, retry, streaming, and decode unhappy paths."

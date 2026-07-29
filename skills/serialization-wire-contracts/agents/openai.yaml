@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serialization and Wire Contracts"
+  short_description: "Prove Kotlin and TypeScript contract compatibility"
+  default_prompt: "Use $serialization-wire-contracts to define exact null, default, enum, time, precision, and evolution semantics, then prove both Kotlin-to-TypeScript directions with golden fixtures."

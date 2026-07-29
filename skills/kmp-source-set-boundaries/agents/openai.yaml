@@ -1,0 +1,4 @@
+interface:
+  display_name: "KMP Source-Set Boundaries"
+  short_description: "Keep shared truth portable and platform authority owned"
+  default_prompt: "Use $kmp-source-set-boundaries to map targets and source-set ownership, justify every platform abstraction, and compile and test every materially affected target."

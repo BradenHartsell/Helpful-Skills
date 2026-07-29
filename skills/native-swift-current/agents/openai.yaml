@@ -1,0 +1,4 @@
+interface:
+  display_name: "Native and Swift Current"
+  short_description: "Export narrow, cancellable Kotlin APIs to Swift"
+  default_prompt: "Use $native-swift-current to identify the export generation, narrow the public API, and prove Swift compilation, cancellation, errors, executors, memory release, and package integration."
