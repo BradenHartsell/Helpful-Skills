@@ -1,0 +1,4 @@
+interface:
+  display_name: "KMP Material 3 UI/UX Design and Engineering"
+  short_description: "Beautiful, adaptive Material 3 for KMP"
+  default_prompt: "Use $kmp-material3-ui-ux to design and implement an adaptive, accessible Compose Multiplatform interface."
