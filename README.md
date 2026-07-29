@@ -19,6 +19,7 @@ Each skill lives in its own directory under [`skills/`](skills/). Its instructio
 | [Kotlin Multiplatform Source-Set Boundaries](skills/kmp-source-set-boundaries/) | `kmp-source-set-boundaries` | Common versus platform ownership, source-set hierarchy, dependencies, expect and actual, and AndroidX KMP | 2026-07-28 |
 | [Kotlin K2 Analysis Tooling](skills/k2-analysis-tooling/) | `k2-analysis-tooling` | Analysis API, project models, KSP2, reachability, static analysis, and compiler integrations | 2026-07-28 |
 | [Kotlin Native and Swift Interoperability](skills/native-swift-current/) | `native-swift-current` | Objective-C and Swift export, async bridges, memory ownership, SPM, and Apple packaging | 2026-07-28 |
+| [Frontend Experience Design and Engineering](skills/frontend-skill/) | `frontend-skill` | Product and marketing UI design, responsive systems, accessibility, truthful state, purposeful motion, implementation, and browser validation | 2026-07-28 |
 | [Three.js 3D Experience Engineering](skills/threejs/) | `threejs` | Browser 3D rendering, scene design, interaction, assets, shaders, performance, and version-aware Three.js guidance | 2026-07-28 |
 
 ## Using a skill

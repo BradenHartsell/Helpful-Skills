@@ -1,6 +1,6 @@
 # Notices
 
-Helpful Skills is an independent, community-maintained repository. It is not affiliated with, sponsored by, or endorsed by Google, JetBrains, or any other third-party platform referenced by its skills.
+Helpful Skills is an independent, community-maintained repository. It is not affiliated with, sponsored by, or endorsed by Google, JetBrains, React, Next.js, Vercel, Anime.js, or any other third-party platform referenced by its skills.
 
 Google, Material Design, Material 3, Android, Kotlin, JetBrains, Compose, Compose Multiplatform, and other third-party names are used only to describe compatibility, subject matter, or official documentation. Names and marks remain the property of their respective owners.
 
@@ -12,5 +12,9 @@ The Kotlin Current Engineering skill family contains original synthesized
 guidance, advisory Python source, and links to official Kotlin, JetBrains,
 Google, Android, Gradle, Ktor, and related platform documentation. It does not
 bundle those platforms, SDKs, libraries, logos, screenshots, fonts, or binaries.
+The `frontend-skill` package contains original synthesized guidance and links to
+official standards, library documentation, browser documentation, and public
+review guidance. It does not bundle third-party libraries, logos, screenshots,
+fonts, or binaries.
 
 Contributors must review the source and license before adding external prose, code, images, icons, fonts, screenshots, or other third-party material.
