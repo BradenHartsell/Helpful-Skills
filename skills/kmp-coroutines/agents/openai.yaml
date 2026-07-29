@@ -1,0 +1,4 @@
+interface:
+  display_name: "KMP Coroutines"
+  short_description: "Design and debug safe KMP coroutine systems"
+  default_prompt: "Use $kmp-coroutines to audit and improve coroutine ownership, job trees, dispatching, cancellation, failure policy, Flow, callback cleanup, and tests across this Kotlin Multiplatform codebase."

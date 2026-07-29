@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Build Toolchain Current"
+  short_description: "Keep Kotlin, Gradle, AGP, Compose, and KSP compatible"
+  default_prompt: "Use $kotlin-build-toolchain-current to prove this module's exact build contract, remove stale configuration safely, and validate every affected target."

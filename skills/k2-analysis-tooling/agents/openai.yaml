@@ -1,0 +1,4 @@
+interface:
+  display_name: "K2 Analysis Tooling"
+  short_description: "Build K2-aware analysis with honest reachability proof"
+  default_prompt: "Use $k2-analysis-tooling to select the supported analysis layer, build a variant-aware project graph, model dynamic reachability, and validate false positives across a representative repository corpus."

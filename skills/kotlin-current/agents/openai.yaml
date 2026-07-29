@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Current"
+  short_description: "Fingerprint and route current Kotlin work"
+  default_prompt: "Use $kotlin-current to fingerprint this repository, produce stack facts, load the smallest relevant Kotlin capsules, and validate the result against current official documentation."

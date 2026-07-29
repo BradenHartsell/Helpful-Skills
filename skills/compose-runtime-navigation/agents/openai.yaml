@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Runtime and Navigation"
+  short_description: "Own Compose state, effects, lifecycle, and navigation"
+  default_prompt: "Use $compose-runtime-navigation to identify the Compose and navigation generation, trace state and effect ownership, and prove recomposition, disposal, restoration, and back-stack behavior."

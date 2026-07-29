@@ -9,6 +9,16 @@ Each skill lives in its own directory under [`skills/`](skills/). Its instructio
 | Skill | ID | What it covers | Compiled |
 |---|---|---|---|
 | [Kotlin Multiplatform Material 3 UI/UX Design and Engineering](skills/kmp-material3-ui-ux/) | `kmp-material3-ui-ux` | Product UI design, Material 3 systems, adaptive Compose layouts, accessibility, input, state, motion, KMP target parity, and visual QA | 2026-07-28 |
+| [Kotlin Current Engineering Skill Family](skills/kotlin-current/) | `kotlin-current` | Evidence-based Kotlin stack discovery and routing across nine specialist engineering skills | 2026-07-28 |
+| [Kotlin Build Toolchain Current](skills/kotlin-build-toolchain-current/) | `kotlin-build-toolchain-current` | Kotlin, Gradle, AGP, Compose compiler, KSP2, JVM toolchains, and compatibility migrations | 2026-07-28 |
+| [Kotlin Multiplatform Coroutines Engineering](skills/kmp-coroutines/) | `kmp-coroutines` | Coroutine ownership, cancellation, failures, dispatchers, Flow, channels, interop, and testing | 2026-07-28 |
+| [Android Platform Current](skills/android-platform-current/) | `android-platform-current` | Target-gated Android behavior, background execution, UI system contracts, Billing, and release proof | 2026-07-28 |
+| [Ktor 3 Multiplatform Client Engineering](skills/ktor3-client/) | `ktor3-client` | Ktor engines, HTTP, streaming, retry, timeout, cancellation, ownership, and migration | 2026-07-28 |
+| [Compose Runtime and Navigation Engineering](skills/compose-runtime-navigation/) | `compose-runtime-navigation` | Compose state, effects, lifecycle, recomposition, restoration, insets, and Navigation 2 or 3 | 2026-07-28 |
+| [Kotlin Serialization and Wire Contracts](skills/serialization-wire-contracts/) | `serialization-wire-contracts` | JSON semantics, time, identifiers, precision, schema evolution, and cross-language fixtures | 2026-07-28 |
+| [Kotlin Multiplatform Source-Set Boundaries](skills/kmp-source-set-boundaries/) | `kmp-source-set-boundaries` | Common versus platform ownership, source-set hierarchy, dependencies, expect and actual, and AndroidX KMP | 2026-07-28 |
+| [Kotlin K2 Analysis Tooling](skills/k2-analysis-tooling/) | `k2-analysis-tooling` | Analysis API, project models, KSP2, reachability, static analysis, and compiler integrations | 2026-07-28 |
+| [Kotlin Native and Swift Interoperability](skills/native-swift-current/) | `native-swift-current` | Objective-C and Swift export, async bridges, memory ownership, SPM, and Apple packaging | 2026-07-28 |
 | [Three.js 3D Experience Engineering](skills/threejs/) | `threejs` | Browser 3D rendering, scene design, interaction, assets, shaders, performance, and version-aware Three.js guidance | 2026-07-28 |
 
 ## Using a skill
